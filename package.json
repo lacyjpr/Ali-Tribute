@@ -1,0 +1,16 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/lacyjpr/Ali-Tribute.git",
+  "author": "Jean-Paul Lacy <lacyjpr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "critical": "^0.8.4",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-tinify": "^1.0.2"
+  }
+}
